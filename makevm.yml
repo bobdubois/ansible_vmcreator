@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: wodan.home.local
   vars:
     vmdir: /home/bdubois/Documents/Labs
     template_disk: ansible-client-clone.qcow2
